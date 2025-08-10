@@ -44,7 +44,7 @@ Media queries were used to:
 🚀 How to Run
 Clone this repository:
 
-git clone https://github.com/preetijadhavpace/task-4-responsive-page.git
+git clone https://github.com/preetijadhavpace/task-4---mediaQuery.git
 Open index.html in your browser.
 
 
