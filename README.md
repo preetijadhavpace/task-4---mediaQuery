@@ -1,7 +1,5 @@
 # task-4---mediaQuery
 
-# Task 4 – Responsive Landing Page
-
 ## 📌 Overview
 This task is part of my Web Development Internship.  
 The objective was to take a desktop-only landing page and make it **mobile-friendly** using **CSS media queries**.  
