@@ -42,9 +42,11 @@ Media queries were used to:
 - Modify spacing for better mobile view
 
 🚀 How to Run
+
 Clone this repository:
 
 git clone https://github.com/preetijadhavpace/task-4---mediaQuery.git
+
 Open index.html in your browser.
 
 
